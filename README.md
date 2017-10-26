@@ -64,7 +64,7 @@ The labs will allow for a project-based and deeper examination of , focused on t
 
 ## So should you take the course?
 
-Yes. The Wilkes Honors College was built and funded by the state of Florida to train tomorrow's leaders. That's you.  The skills and perspective that you will gain in this course will help you in graduate and professional schools, will help you in your careers, and will help you in your goal to making a better world. And it will help you train the next generation of data scientists, too.
+Yes. The Wilkes Honors College was built and funded by the state of Florida to train tomorrow's leaders. That's you.  The skills and perspective that you will gain in this course will help you in graduate and professional schools, will help you in your careers, and will help you in your goal of making a better world. And it will help you train the next generation of data scientists, too.
 
 ## So should you take the lab as well as the lecture?
 
