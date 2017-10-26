@@ -2,7 +2,7 @@
 This repository will host the syllabus and course materials for the Wilkes Honors College (WHC) *Intro to Data Science* course in Spring 2018, taught by Professors Kevin Lanning and Warren McGovern, and the lab *Intro to Data Science with R* taught by Dr. Lanning. (For the time being, it includes only a course outline - a syllabus will come later).
 
 ## Who is this course for?
-Hochster (in [Hicks & Irizarry, 2017](https://arxiv.org/ftp/arxiv/papers/1612/1612.07140.pdf)) describes two broad types of data scientists: Type A (Analysis) data scientists, whose skills are that of an applied **statistician**, and Type B (Building) data scientists, whose skills lie in problem solving or coding, using the skills of the **computer scientist**.  Our course is like those at [Harvard](http://datasciencelabs.github.io/), [University of British Columbia](https://github.com/STAT545-UBC/STAT545-UBC.github.io), [University of Pennsylvania](https://github.com/MUSA-620-Spring-2017/Course-Materials), at [BYU](https://byuistats.github.io/M335/syllabus.html), and [UC Berkeley](https://github.com/FAUDataScience/stat259) (and will draw from all of these) in that it is closer to a Type A than a Type B treatment, one which is closer to Statistics than to Computer Science. But there's more.
+Hochster (in [Hicks & Irizarry, 2017](https://arxiv.org/ftp/arxiv/papers/1612/1612.07140.pdf)) describes two broad types of data scientists: Type A (Analysis) data scientists, whose skills are like those of an applied **statistician**, and Type B (Building) data scientists, whose skills lie in problem solving or coding, using the skills of the **computer scientist**.  Our course is like those at [Harvard](http://datasciencelabs.github.io/), [University of British Columbia](https://github.com/STAT545-UBC/STAT545-UBC.github.io), [University of Pennsylvania](https://github.com/MUSA-620-Spring-2017/Course-Materials), [BYU](https://byuistats.github.io/M335/syllabus.html), and [UC Berkeley](https://github.com/FAUDataScience/stat259) (and will draw from all of these) in that it is closer to a Type A than a Type B treatment, one which is closer to Statistics than to Computer Science. But there's more.
 
 ### Type C data science
 
@@ -13,8 +13,6 @@ Hochster's view of data science arguably omits a critical component of the field
 The iconic [Venn diagram model of data science](https://www.google.com/search?q=venn+diagram+model+of+data+science&newwindow=1&safe=active&rlz=1C1CHBF_enUS762US763&tbm=isch&tbo=u&source=univ&sa=X&ved=0ahUKEwiM_abBtY7XAhXDQCYKHdgyB58QsAQIOg&biw=1378) suggests what we can call a "Type C data science." It begins with "domain expertise" in your **concentration** in the arts, humanities, social and/or natural sciences, it both informs and can be informed by new methods and tools of data analysis, and it includes such things as **communication** (including writing and the design and display of quantitative data), **collaboration** (making use of the tools of team science), and **citizenship** (serving the public good, overcoming the digital divide, furthering social justice, increasing public health, diminishing human suffering, and making the world a more beautiful place).  It's shaped, too, by an awareness of the **creepiness** of living increasingly in a measured, observed world.
 
 **The WHC Intro to Data Science course will be a Type C course, or more accurately, a CAB course - equal parts statistics and domain knowledge, with just enough computing to be proficient to use (but not yet build) the software tools at our disposal.**  We aren't unique here - there are similar courses (which we will again draw from) at [UC Santa Barbara](https://github.com/raviolli77/dataScience-UCSBProjectGroup-Syllabus), at [Berlin's Hertie School of Governance](https://github.com/HertieDataScience/SyllabusAndLectures), and in [Columbia's School of Journalism](https://github.com/tommeagher/data1-fall2015). 
-
-*The Wilkes Honors College was built and funded by the state of Florida to train tomorrow's leaders. That's you.  The skills and perspective that you will gain in this course will help you in graduate and professional schools, will help you in your careers, and will help you in your goal to making a better world. And it will help you train the next generation of data scientists, too.*
 
 ## What will be in the class?
 
@@ -64,8 +62,12 @@ The labs will allow for a project-based and deeper examination of , focused on t
 |    Graph theory and network analysis     | Introduction to centrality, community structure, contagion | Network robustness, different approaches to centrality & community structure |
 |             Analyzing texts              |               Word clouds                |        Natural language analysis         |
 
-## So should you take the lab?
+## So should you take the lab as well as the lecture?
 
-Yes. But it is not required. 
+Yes. But it (the lab) is not required, not a formal corequisite. 
 
 If you are interested in taking the class (either with or without the lab), complete the Google form [here](https://goo.gl/forms/kXGAOTShcOLPwjPH2).
+
+```
+The Wilkes Honors College was built and funded by the state of Florida to train tomorrow's leaders. That's you.  The skills and perspective that you will gain in this course will help you in graduate and professional schools, will help you in your careers, and will help you in your goal to making a better world. And it will help you train the next generation of data scientists, too.
+```
