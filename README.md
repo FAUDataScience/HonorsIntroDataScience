@@ -16,9 +16,7 @@ The iconic [Venn diagram model of data science](https://www.google.com/search?q=
 
 ## What will be in the class?
 
-**R**
-
-In my rough survey of introductory data science courses, I saw a pretty even split between those which begin with Python and those which begin with the statistical programming language R. This difference corresponds, loosely, to the split noted above: Computer science based approaches to data science are frequently grounded in Python, while stats based approaches are generally grounded in R. Our course, like those for most of the syllabi and courses linked above, will be based in R. 
+**R** In my rough survey of introductory data science courses, I saw a pretty even split between those which begin with Python and those which begin with the statistical programming language R. This difference corresponds, loosely, to the split noted above: Computer science based approaches to data science are frequently grounded in Python, while stats based approaches are generally grounded in R. Our course, like those for most of the syllabi and courses linked above, will be based in R. 
 
 **Reproducible science**
 
@@ -48,9 +46,9 @@ In addition to R, we'll use a range of other tools: We'll communicate on the Sla
 
 We had initially anticipated that the lectures would include discussion, and that the computing part of the class would occur just in the lab.  But, in the course of examining syllabi at other schools, it became apparent to me that **there will be computing throughout the course**, not just in the lab.
 
-**So what's in the lab?**
+**What will be in the lab?**
 
-The labs will allow for a project-based and deeper examination of , focused on the collaborative analysis of problems of your own choosing. These projects will include a deeper dive into some of the topics and problems above.  Here are a few examples of how the treatment in the lecture and the lab will differ:
+The labs will have two features.  First, they will allow for a project-based approach, focused on the collaborative analysis of problems of your own choosing. Second, these projects will include a deeper dive into some of the topics and problems above.  Here are a few examples of how the treatment in the lecture and the lab are likely to differ:
 
 |                  Topic                   |                 Lecture                  |             Lab: Deeper dive             |
 | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
@@ -66,7 +64,7 @@ The labs will allow for a project-based and deeper examination of , focused on t
 
 I think that this course will have something for every Wilkes Honors College student. The WHC was built and funded by the state of Florida to train tomorrow's leaders. That's you. The skills and perspective that you will gain in this course will help you in graduate and professional schools, will help you in your careers, and will help you in your goal of making a better world. And it will help you train the next generation of data scientists, too.
 
-#Should you take the lab as well as the lecture?# Yes. But it (the lab) is not required, not a formal corequisite. 
+**Should you take the lab as well as the lecture?**  Yes. But it (the lab) is not required, not a formal corequisite. 
 
 If you are interested in taking the class (either with or without the lab), complete the Google form [here](https://goo.gl/forms/kXGAOTShcOLPwjPH2).
 
