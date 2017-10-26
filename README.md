@@ -48,7 +48,7 @@ In addition to R, we'll use a range of other tools: We'll communicate on the Sla
 
 **Hands-on computing**
 
-We had initially anticipated that the lectures would include discussion, and that the computing part of the class would occur just in the lab.  But, on examining syllabi at other schools, it became apparent that **there will be computing throughout the course**, not just in the lab.
+We had initially anticipated that the lectures would include discussion, and that the computing part of the class would occur just in the lab.  But, in the course of examining syllabi at other schools, it became apparent to me that **there will be computing throughout the course**, not just in the lab.
 
 **So what's in the lab?**
 
@@ -68,4 +68,4 @@ The labs will allow for a project-based and deeper examination of , focused on t
 
 Yes. But it is not required. 
 
-If you are interested in taking the class, complete the Google form [here](https://goo.gl/forms/kXGAOTShcOLPwjPH2).
+If you are interested in taking the class (either with or without the lab), complete the Google form [here](https://goo.gl/forms/kXGAOTShcOLPwjPH2).
