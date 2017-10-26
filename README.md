@@ -42,7 +42,7 @@ The skills required to extract meaning from data include an understanding of cla
 
 **~~All~~ *Some of* the tools**
 
-In addition to R, we'll use a range of other tools: We'll communicate on the Slack platform. We'll write using markdown editors such as [Typora](https://typora.io/). We'll certainly use spreadsheets such as Excel or Google Sheets. We *may* use additional tools for visualizing networks such as Gephi and Tableau.
+In addition to R, we'll use a range of other tools: We'll communicate on the Slack platform. We'll write using markdown editors such as [Typora](https://typora.io/). We'll certainly use spreadsheets such as Excel or Google Sheets. We *may* use additional tools for visualizing data such as Gephi and Tableau.
 
 **Hands-on computing**
 
