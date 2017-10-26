@@ -62,15 +62,13 @@ The labs will allow for a project-based and deeper examination of , focused on t
 |    Graph theory and network analysis     | Introduction to centrality, community structure, contagion | Network robustness, different approaches to centrality & community structure |
 |             Analyzing texts              |               Word clouds                |        Natural language analysis         |
 
+## So should you take the course?
+
+Yes. The Wilkes Honors College was built and funded by the state of Florida to train tomorrow's leaders. That's you.  The skills and perspective that you will gain in this course will help you in graduate and professional schools, will help you in your careers, and will help you in your goal to making a better world. And it will help you train the next generation of data scientists, too.
+
 ## So should you take the lab as well as the lecture?
 
 Yes. But it (the lab) is not required, not a formal corequisite. 
 
 If you are interested in taking the class (either with or without the lab), complete the Google form [here](https://goo.gl/forms/kXGAOTShcOLPwjPH2).
 
-```
-The Wilkes Honors College was built and funded by the state of Florida to train tomorrow's leaders. That's you.  
-The skills and perspective that you will gain in this course will help you in graduate and professional schools, 
-will help you in your careers, and will help you in your goal to making a better world. 
-And it will help you train the next generation of data scientists, too.
-```
