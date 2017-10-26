@@ -69,5 +69,8 @@ Yes. But it (the lab) is not required, not a formal corequisite.
 If you are interested in taking the class (either with or without the lab), complete the Google form [here](https://goo.gl/forms/kXGAOTShcOLPwjPH2).
 
 ```
-The Wilkes Honors College was built and funded by the state of Florida to train tomorrow's leaders. That's you.  The skills and perspective that you will gain in this course will help you in graduate and professional schools, will help you in your careers, and will help you in your goal to making a better world. And it will help you train the next generation of data scientists, too.
+The Wilkes Honors College was built and funded by the state of Florida to train tomorrow's leaders. That's you.  
+The skills and perspective that you will gain in this course will help you in graduate and professional schools, 
+will help you in your careers, and will help you in your goal to making a better world. 
+And it will help you train the next generation of data scientists, too.
 ```
