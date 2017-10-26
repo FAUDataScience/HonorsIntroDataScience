@@ -6,7 +6,7 @@ Hochster (in [Hicks & Irizarry, 2017](https://arxiv.org/ftp/arxiv/papers/1612/16
 
 ### Type C data science
 
-Hochster's view of data science arguably omits a critical component of the field.  Data science is driven not just by statistics and computer science, but also by "domain experience:"
+Hochster's view of data science arguably omits a critical component of the field.  Data science is driven not just by statistics and computer science, but also by "domain expertise:"
 
 <img src = "https://4.bp.blogspot.com/-0cbXveb1J_0/V-FtjJZ4rqI/AAAAAAAAMHM/bS32Pio2a1IFOyp5T86S0jiyB-3KAN1iwCEw/s1600/download%2B%25281%2529.png" width = "300px" />
 
