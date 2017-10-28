@@ -26,15 +26,18 @@ The course will provide an introduction to some of the methods and tools of repr
 
 **Good visualizations**
 
-Part of Type C data science is communication, and this includes not just writing up results, but also designing data displays that incisively convey key ideas or features in a of data. We'll examine and develop data visualizations such as plots, networks and text clouds. More advanced topics may include maps and animations.
+Part of Type C data science is communication, and this includes not just writing up results, but also designing data displays that incisively convey the key ideas or features in a flood of data. We'll examine and develop data visualizations such as plots, networks and text clouds. More advanced topics may include maps, interactive displays, and animations.
 
 **~~All~~ *Some of* the data**
 
-It's been [argued](https://www.udemy.com/datascience/learn/v4/t/lecture/3473822?start=379) that in the last dozen years, humans have produced more than 60 times as much information as existed in the entire previous history of humankind. (It sounds like hyperbole, but even if it's off by a few orders of magnitude it's still amazing).  There are plenty of data sources for us to examine, and we'll examine existing datasets from disciplines ranging from literature to economics to public health, with sizes ranging from a few dozen to millions of data points.  We will also clean and create new datasets. 
+It's been [argued](https://www.udemy.com/datascience/learn/v4/t/lecture/3473822?start=379) that in the last dozen years, humans have produced more than 60 times as much information as existed in the entire previous history of humankind. (It sounds like hyperbole, but even if it's off by an order of magnitude it's still amazing).  There are plenty of data sources for us to examine, and we'll consider existing datasets from disciplines ranging from literature to economics to public health, with sizes ranging from a few dozen to millions of data points.  We will also clean and create new datasets. 
 
 **~~All~~ *Some of* the meaning**
 
-Data matter, can save, enhance, or destroy human lives. We'll explore approaches to analyzing the meaning of data in areas including the analyses of simple texts and data journalism. 
+Data matter, can save, enhance, or destroy human lives.* We'll explore approaches to analyzing the meaning of data in areas including the analyses of simple texts and data journalism. 
+
+---
+* This is a crummy sentence: My pedantic insistence on treating the term "data" as plural rather than singular likely distracted you from the substance of my message. I'll leave it here as a reminder that we can all become better writers.
 
 **~~All~~ *Some of* the skills**
 
@@ -73,4 +76,3 @@ Yes. But it (the lab) is not required, not a formal corequisite.
 **How do I sign up?**
 
 If you are interested in taking the class (either with or without the lab), complete the Google form [here](https://goo.gl/forms/kXGAOTShcOLPwjPH2). Note that enrollment in the class and lab will be limited to 30.
-
