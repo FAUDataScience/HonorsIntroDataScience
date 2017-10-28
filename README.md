@@ -34,10 +34,7 @@ It's been [argued](https://www.udemy.com/datascience/learn/v4/t/lecture/3473822?
 
 **~~All~~ *Some of* the meaning**
 
-Data matter, can save, enhance, or destroy human lives.* We'll explore approaches to analyzing the meaning of data in areas including the analyses of simple texts and data journalism. 
-
----
-* This is a crummy sentence: My pedantic insistence on treating the term "data" as plural rather than singular likely distracted you from the substance of my message. I'll leave it here as a reminder that we can all become better writers.
+Data matter, can save, enhance, or destroy human lives. (This is a crummy sentence: My pedantic insistence on treating the term "data" as plural rather than singular likely distracted you from the substance of my message. I'll leave it here as a reminder that we can all become better writers). Getting back to my point, in this class, We'll explore approaches to analyzing the meaning of data in areas including the analyses of simple texts and data journalism.
 
 **~~All~~ *Some of* the skills**
 
